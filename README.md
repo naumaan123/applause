@@ -26,6 +26,7 @@ as you want using "&"
 Examples - 
 
 *http://localhost:8080/api/tester/bug/count?country=US&country=JP*
+
 *http://localhost:8080/api/tester/bug/count?country=US&device=IPhone%204&device=Nexus%204*
 
 
